@@ -17,7 +17,7 @@ export default function ReceiveScreen() {
       src: './images/logo/logo@128x.png', // Replace with the URL of your image
       height: 45, // Adjust the size of the logo as needed
       width: 45,
-      excavate: true // This removes the dark squares in the QR code where the logo is placed
+      excavate: false // This removes the dark squares in the QR code where the logo is placed
     }
   };
 
